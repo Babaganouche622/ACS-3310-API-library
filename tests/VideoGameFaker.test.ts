@@ -1,6 +1,6 @@
 // VideoGameFaker.test.ts
 
-import VideoGameFaker from '../src/VideoGameFaker';
+import { VideoGameFaker } from '../src/VideoGameFaker';
 
 describe('VideoGameFaker', () => {
   describe('generateCharacter', () => {
