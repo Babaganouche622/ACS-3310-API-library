@@ -1,0 +1,118 @@
+{
+  "characters": [
+    {
+      "FirstName": "Terra",
+      "LastName": "Branford",
+      "Age": 25,
+      "Job": "Magitek Elite"
+    },
+    {
+      "FirstName": "Locke",
+      "LastName": "Cole",
+      "Age": 27,
+      "Job": "Adventurer"
+    },
+    {
+      "FirstName": "Celes",
+      "LastName": "Chere",
+      "Age": 24,
+      "Job": "Rune Knight"
+    },
+    {
+      "FirstName": "Edgar",
+      "LastName": "Figaro",
+      "Age": 27,
+      "Job": "Machinist"
+    },
+    {
+      "FirstName": "Sabin",
+      "LastName": "Figaro",
+      "Age": 27,
+      "Job": "Monk"
+    },
+    {
+      "FirstName": "Cyan",
+      "LastName": "Garamonde",
+      "Age": 50,
+      "Job": "Samurai"
+    },
+    {
+      "FirstName": "Gau",
+      "LastName": null,
+      "Age": 13,
+      "Job": "Wild Child"
+    },
+    {
+      "FirstName": "Setzer",
+      "LastName": "Gabbiani",
+      "Age": 27,
+      "Job": "Gambler"
+    },
+    {
+      "FirstName": "Strago",
+      "LastName": "Magus",
+      "Age": 70,
+      "Job": "Blue Mage"
+    },
+    {
+      "FirstName": "Relm",
+      "LastName": "Arrowny",
+      "Age": 10,
+      "Job": "Pictomancer"
+    },
+    {
+      "FirstName": "Shadow",
+      "LastName": null,
+      "Age": 35,
+      "Job": "Assasin"
+    },
+    {
+      "FirstName": "Mog",
+      "LastName": null,
+      "Age": 11,
+      "Job": "Dancer"
+    },
+    {
+      "FirstName": "Gogo",
+      "LastName": null,
+      "Age": null,
+      "Job": "Mime"
+    },
+    {
+      "FirstName": "Umaro",
+      "LastName": null,
+      "Age": null,
+      "Job": "Berserker"
+    },
+    {
+      "FirstName": "Kefka",
+      "LastName": "Palazzo",
+      "Age": 35,
+      "Job": null
+    },
+    {
+      "FirstName": "Leo",
+      "LastName": "Cristophe",
+      "Age": 30,
+      "Job": "General"
+    },
+    {
+      "FirstName": "Banon",
+      "LastName": null,
+      "Age": 50,
+      "Job": "Oracle"
+    },
+    {
+    "FirstName": "Biggs",
+    "LastName": null,
+    "Age": 27,
+    "Job": "Soldier"
+    },
+    {
+    "FirstName": "Wedge",
+    "LastName": null,
+    "Age": 27,
+    "Job": "Soldier"
+    }
+  ]
+}
