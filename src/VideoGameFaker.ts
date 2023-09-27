@@ -113,6 +113,3 @@ export class VideoGameFaker{
     return this.job;
   }
 }
-
-
-// export default VideoGameFaker;
