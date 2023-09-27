@@ -13,6 +13,7 @@
     "tests/**/*",
   ],
   "include": [
-    "src/**/*.json"
+    "src/**/*.json",
+    "src/**/*.ts",
   ]
 }
