@@ -1,10 +1,10 @@
 {
   "name": "video-game-fake-data",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/VideoGameFaker.js",
   "scripts": {
-    "build": "tsc",
+    "build": "webpack --config webpack.config.js",
     "test": "jest"
   },
   "keywords": [],
